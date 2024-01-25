@@ -1,6 +1,6 @@
-aggressive_agg_promotion: false
+unique_name: TPC-DS Benchmark Model - Snowflake
+label: TPC-DS Benchmark Model - Snowflake
 as_version: 1.0
+aggressive_agg_promotion: false
 build_speculative_aggs: true
-label: MyFirstProject
 object_type: AtscaleSettings
-unique_name: MyFirstProject
