@@ -1,0 +1,4 @@
+[submodule "atscale-share-dimension"]
+	path = atscale-share-dimension
+	url = https://github.com/rwidjaja/atscale-share-dimension.git
+        branch = main

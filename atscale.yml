@@ -1,0 +1,6 @@
+aggressive_agg_promotion: false
+as_version: 1.0
+build_speculative_aggs: true
+label: MyFirstProject
+object_type: AtscaleSettings
+unique_name: MyFirstProject
