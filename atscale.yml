@@ -3,4 +3,4 @@ label: TPC-DS Benchmark Model - Snowflake
 as_version: 1.0
 aggressive_agg_promotion: false
 build_speculative_aggs: true
-object_type: AtscaleSettings
+object_type: catalog
